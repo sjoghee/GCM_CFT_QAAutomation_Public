@@ -1,0 +1,13 @@
+C:\CFT\CFTAutomation\CFT_Automation\CFT_Automation\bin\Debug\AutoItX3.dll
+C:\CFT\CFTAutomation\CFT_Automation\CFT_Automation\bin\Debug\AutoItX3_x64.dll
+C:\CFT\CFTAutomation\CFT_Automation\CFT_Automation\bin\Debug\CFT_Automation.dll.config
+C:\CFT\CFTAutomation\CFT_Automation\CFT_Automation\bin\Debug\CFT_Automation.dll
+C:\CFT\CFTAutomation\CFT_Automation\CFT_Automation\bin\Debug\CFT_Automation.pdb
+C:\CFT\CFTAutomation\CFT_Automation\CFT_Automation\bin\Debug\AutoItX3.Assembly.dll
+C:\CFT\CFTAutomation\CFT_Automation\CFT_Automation\bin\Debug\WebDriver.dll
+C:\CFT\CFTAutomation\CFT_Automation\CFT_Automation\bin\Debug\WebDriver.Support.dll
+C:\CFT\CFTAutomation\CFT_Automation\CFT_Automation\bin\Debug\AutoItX3.Assembly.xml
+C:\CFT\CFTAutomation\CFT_Automation\CFT_Automation\bin\Debug\WebDriver.xml
+C:\CFT\CFTAutomation\CFT_Automation\CFT_Automation\bin\Debug\WebDriver.Support.xml
+C:\CFT\CFTAutomation\CFT_Automation\CFT_Automation\obj\Debug\CFT_Automation.dll
+C:\CFT\CFTAutomation\CFT_Automation\CFT_Automation\obj\Debug\CFT_Automation.pdb

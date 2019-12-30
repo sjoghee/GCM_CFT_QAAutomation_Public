@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  robot_application:
+    environment:
+      - passed_env_var=variable_from_docker
+      - loop_count=150
+      - sleep_seconds=2

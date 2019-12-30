@@ -1,0 +1,16 @@
+FROM mcr.microsoft.com/dotnet/core/sdk:2.2
+
+# copying csproj file and running restore, to get separate layer of the image, for faster changes
+# this layer will be recreated only when new references are modified
+COPY src/*.csproj /src/
+WORKDIR /src
+RUN dotnet restore
+
+COPY tests/unitTests/*.csproj /tests/unitTests/
+WORKDIR /tests/unitTests
+RUN dotnet restore
+
+COPY src/ /src
+COPY tests/ /tests
+# running dotnet tests in /tests/unitTests folder
+ENTRYPOINT [ "dotnet", "test" ]
